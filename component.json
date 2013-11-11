@@ -1,0 +1,14 @@
+{
+  "name": "cm-user-widget",
+  "repo": "onclickstudios/cm-user-widget",
+  "description": "Widget for signin, signup or display logged in status, badges, settings, etc.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
